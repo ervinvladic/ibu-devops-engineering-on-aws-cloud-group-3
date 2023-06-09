@@ -13,5 +13,5 @@
 - [**Filip Ljoljić**](https://github.com/filipljoljic)
 
 ## Description
-For this project, we needed to complete building a highly available, scalable web application.
-This is a project from the course **IT 334: DevOps Engineering on AWS cloud**
+- For this project, we needed to complete building a highly available, scalable web application.
+- This is a project from the course **IT 334: DevOps Engineering on AWS cloud**
