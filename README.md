@@ -2,7 +2,7 @@
 
 
 ## Repository structure
-- In the **application-code** directory, you can find the entire application code and the code for installing the application on the virtual machine.
+- In the [**application-code**](https://github.com/ervinvladic/ibu-devops-engineering-on-aws-cloud-group-3/tree/main/application-code) directory, you can find the entire application code and the code for installing the application on the virtual machine.
 - In the **docs** directory, there is an AWS infrastructure diagram, a project cost estimate, and project documentation.
 - In the **helper-scripts** directory, there are helper scripts that we ran on AWS Cloud9. 
 
