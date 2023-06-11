@@ -1,4 +1,4 @@
 #The script that was used to perform the load test
 
 npm install -g loadtest
-loadtest --rps 1000  -c 500 -k <<ELB URL>>
+loadtest --rps 1000  -c 500 -k http://projectelb-759380009.us-east-1.elb.amazonaws.com/
